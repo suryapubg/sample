@@ -1,0 +1,28 @@
+
+p{
+    font-family:cursive;
+    color:rgb(154, 255, 4);background-color:black;font-style:oblique;
+    
+}
+body{
+     font-family:'Courier New';
+     background-color: aquamarine;
+}
+tr,p,td{
+    font-size:110%;font-variant: small-caps;color:khaki;background-image:"Asiatic chhetah.png";
+    font-style:italic;
+}
+h1{
+    color:green;background-color:lawngreen ;font-family:cursive;
+    font-size:150%;font-style: oblique;font-variant: small-caps;
+}
+ol,ul{
+    background-color:black;color: aqua;
+}
+progress{
+    color:indianred;
+}
+code{
+    color:black;
+}
+
